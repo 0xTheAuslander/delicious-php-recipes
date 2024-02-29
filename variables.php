@@ -25,26 +25,31 @@ $users = [
     [
         'full_name' => 'Mickael',
         'age' => 34,
-        'email' => 'mickael.qwe@exemple.com',
+        'email' => 'hello@world.com',
+        'password' => 'hello',
     ],
     [
         'full_name' => 'Mick',
         'age' => 24,
         'email' => 'mick.yzx@exemple.com',
+        'password' => 'hello',
     ],
     [
         'full_name' => 'Mathieu',
         'age' => 44,
         'email' => 'mathieu.xyz@exemple.com',
+        'password' => 'hello',
     ],
     [
         'full_name' => 'Mourad',
         'age' => 18,
         'email' => 'mourad.xyz@exemple.com',
+        'password' => 'hello',
     ],
     [
         'full_name' => 'Said',
         'age' => 58,
         'email' => 'said.xyz@exemple.com',
+        'password' => 'hello',
     ],
 ];
